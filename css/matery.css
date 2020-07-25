@@ -266,11 +266,11 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #f5ea4e 0%, #5de7e7 100%);
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color: #cf7eb0 !important;
 }
 
 .white-color {
@@ -619,6 +619,7 @@ header .go-back i {
     font-weight: 400;
 }
 
+/* 动态切换背景颜色
 @-webkit-keyframes rainbow {
 
     0%,
@@ -710,6 +711,8 @@ header .go-back i {
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
 }
+*/
+
 
 .index-card {
     margin-top: -10px;
