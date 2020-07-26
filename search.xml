@@ -5,8 +5,8 @@
     
     <entry>
       <title>半个 MacBook Pro 的故事</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <link href="/posts/d9d.html"/>
+      <url>/posts/d9d.html</url>
       
         <content type="html"><![CDATA[<h1 id="准备中"><a href="#准备中" class="headerlink" title="准备中"></a>准备中</h1><p>配置：CPU intel core i7 4770HQ<br>     内存 16GB</p><pre><code>其他参数。。。。加载中。。。。</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -34,8 +34,8 @@
     
     <entry>
       <title>这是第一篇文章，来搞搞什么呢？</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <link href="/posts/28d8.html"/>
+      <url>/posts/28d8.html</url>
       
         <content type="html"><![CDATA[<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="这是一个新的句子🐔"><a href="#这是一个新的句子🐔" class="headerlink" title="这是一个新的句子🐔"></a>这是一个新的句子🐔</h3><p>鸡你太美<br>🐔🍐🌞📺</p><h3 id="提桶跑路"><a href="#提桶跑路" class="headerlink" title="提桶跑路"></a>提桶跑路</h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
