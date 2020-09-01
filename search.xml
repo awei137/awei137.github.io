@@ -29,11 +29,11 @@
     
     
     <entry>
-      <title>关于快捷指令的研究</title>
+      <title>一起来玩玩快捷指令吧</title>
       <link href="/posts/eacf.html"/>
       <url>/posts/eacf.html</url>
       
-        <content type="html"><![CDATA[<p>#快捷指令（Shortcuts）</p><p>在开始接触Shortcuts究有一种预感，它将会有很多的玩法！</p><p>“捷径”为自动执行 iPhone 和 iPad 上的日常操作带来了无限可能。结合它的自动化和智能家居，完全可以自行设计自己想要的操作。在这里可能说的比较抽象，比如每天的各种app签到，集成一些小插件实现某某具体的功能，etc 算了，你懂的。</p><p>【吐槽】捷径太多，要是出一个分类功能就太好了。202080823</p><p>欢迎使用捷径<br>使用最短的路径<br>捷径小组件<br>只需询问Siri</p><p>💡想法1⃣️  一键完成✅所有app签到</p><p>包括支付宝积分<br>收集能量<br>日常味🐔的自动化<br>贴吧签到</p><p>别人设计好的还是挺多<br>方向从了解基础架构再到具体去分析他们的具体实例</p><p>#后记 零碎语句</p><p>用原生 iOS 的人分两种，懂 URL Schemes 的和不懂的。</p><p>前者是「魔法师」，后者是「麻瓜」。</p><p>快捷指令的出现 感知不强 有点算法的味道 </p><p>优点是显而易见的： 避免干扰 专注自己刚才 要最的事<br>                一些常用的用的快捷方式 精简了一些专业软件 效率更高</p><p>缺点 要知道原理 不然一味的快捷就是偷懒</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="快捷指令（Shortcuts）"><a href="#快捷指令（Shortcuts）" class="headerlink" title="快捷指令（Shortcuts）"></a>快捷指令（Shortcuts）</h1><h2 id="开头"><a href="#开头" class="headerlink" title="开头"></a>开头</h2><p>在开始接触Shortcuts究有一种预感，它将会有很多的玩法！</p><p>“捷径”为自动执行 iPhone 和 iPad 上的日常操作带来了无限可能。结合它的自动化和智能家居，完全可以自行设计自己想要的操作。在这里可能说的比较抽象，比如每天的各种app签到，集成一些小插件实现某某具体的功能，etc 算了，你懂的。</p><p>【吐槽】捷径太多，要是出一个分类功能就太好了。【202080823】</p><p>欢迎使用捷径<br>使用最短的路径<br>捷径小组件<br>只需询问Siri</p><h1 id="创意！"><a href="#创意！" class="headerlink" title="创意！"></a>创意！</h1><p>💡想法1⃣️  一键完成✅所有app签到</p><p>包括支付宝积分<br>收集能量<br>日常味🐔的自动化<br>贴吧签到</p><p>别人设计好的还是挺多<br>方向从了解基础架构再到具体去分析他们的具体实例</p><p>#后记 零碎语句</p><p>用原生 iOS 的人分两种，懂 URL Schemes 的和不懂的。</p><p>前者是「魔法师」，后者是「麻瓜」。</p><p>快捷指令的出现 感知不强 有点算法的味道 </p><p>优点是显而易见的： 避免干扰 专注自己刚才 要最的事<br>                一些常用的用的快捷方式 精简了一些专业软件 效率更高</p><p>缺点 要知道原理 不然一味的快捷就是偷懒</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -64,6 +64,56 @@
       <categories>
           
           <category> 硬软结合 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> The air was hot hot from summer rain </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>APPL</title>
+      <link href="/posts/d829.html"/>
+      <url>/posts/d829.html</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 硬软结合 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> The air was hot hot from summer rain </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BATTLEFIELD V</title>
+      <link href="/posts/3ed8.html"/>
+      <url>/posts/3ed8.html</url>
+      
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> GAME EXP+ </category>
           
       </categories>
       
